@@ -3,6 +3,7 @@ Introduction
 The objective of this project is to control a set of LEDs in a traffic light style using the NUCLEO-F401RE microcontroller. The project also includes an additional component, a 7-segment display, as my extra work. The microcontroller will read the state of a push-button switch and operate the LEDs accordingly. The 7-segment display will be utilized to show a countdown during the red LED phase. Additionally, the project will implement a feature where pressing the button twice will switch off the green LED and activate a blinking amber LED in an infinite loop.
 
 Hardware Setup
+
 The hardware setup for this project includes the following components:
 ●	NUCLEO-F401RE microcontroller
 ●	Breadboard
